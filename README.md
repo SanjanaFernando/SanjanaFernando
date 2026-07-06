@@ -24,10 +24,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 👁️ Visitor Count
 
-![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=W.S.I.Fernando&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaFernando&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=SanjanaFernando&color=blue)
 
 ---
 

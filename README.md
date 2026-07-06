@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=SanjanaFernando&show_icons=true&theme=default)
+![Sanjana's GitHub stats](https://github-readme-stats.vercel.app/api?username=W.S.I.Fernando&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaFernando&layout=compact)
 
 ---

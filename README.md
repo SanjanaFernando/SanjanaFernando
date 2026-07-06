@@ -2,13 +2,12 @@
 
 🎓 I'm a student passionate about learning and building things with code.
 
-- 🌱 Currently learning: *(add your current focus, e.g. Python, Web Development, Data Structures)*
-- 💻 Interested in: *(e.g. Web Dev, AI/ML, Mobile Apps, Cybersecurity)*
-- 📚 Studying at: *(your school/university)*
-- 🔭 Currently working on: *(a project name or "exploring new ideas")*
+- 🌱 Currently learning: Python, Web Development (NextJS,ViteJS,MERN), Data Structures
+- 💻 Interested in: Web Dev, AI/ML, Mobile Apps, Cybersecurity
+- 📚 Studying at: University of Ruhuna
 - 🤝 Open to: collaborating on beginner-friendly projects, hackathons, study groups
-- 📫 Reach me at: *(your email or LinkedIn)*
-- ⚡ Fun fact: *(something about you)*
+- 📫 Reach me at: sanjanaimfernando2001@gmail.com 
+
 
 ---
 

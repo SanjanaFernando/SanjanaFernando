@@ -4,7 +4,7 @@
 - 💻 Interested in: Web Dev, AI/ML, Mobile Apps, Cybersecurity
 - 📚 Studying at: University of Ruhuna
 - 🤝 Open to: collaborating on beginner-friendly projects, hackathons, study groups
-- 📫 Reach me at: w.s.fernando.se1@gmail.com
+- 📫 Reach me at: w.s.fernando.se@gmail.com
 ---
 ### 🛠️ Languages & Tools
 <!-- Remove/add badges based on what you actually use -->

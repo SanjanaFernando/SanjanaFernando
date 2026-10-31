@@ -19,22 +19,7 @@
 
 ## 🚀 About Me
 
-```python
-class Sanjana:
-    role      = "Full Stack Software Engineer (AI/ML Focused)"
-    education = "BSc Computer Engineering, University of Ruhuna"
-    location  = "Pannipitiya, Sri Lanka"
-    working_at = "W3icon (Pvt) Ltd. – Web Developer"
-
-    focus = ["Reinforcement Learning", "LLM Agents & RAG", "Full-Stack Web", "Computer Vision"]
-
-    def currently_building(self):
-        return "ML-powered products that actually ship"
-
-    def open_to(self):
-        return ["Software Engineering roles", "AI/ML projects", "Hackathons", "Collaborations"]
-```
-
+- 💼 Web Developer at **W3icon (Pvt) Ltd.**, based in Pannipitiya, Sri Lanka
 - 🎓 Computer Engineering graduate who loves turning ML research ideas into usable web products
 - 🏥 Trained a **Double DQN** agent for hospital bed allocation, served via a Next.js dashboard
 - 🤖 Built a **LangGraph multi-agent RAG** platform that automates tender proposals

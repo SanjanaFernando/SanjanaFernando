@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:7c3aed&height=220&section=header&text=Sanjana%20Fernando&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Software%20Engineer%20%7C%20AI%2FML%20Focused&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="Header" />
 
 <a href="https://github.com/SanjanaFernando">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Sanjana+Fernando;Computer+Engineering+Graduate+%E2%80%93+University+of+Ruhuna;I+build+ML-powered+full-stack+apps;Reinforcement+Learning+%7C+RAG+%7C+Next.js;Currently+Web+Developer+%40+W3icon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=60A5FA&center=true&vCenter=true&width=950&height=45&lines=Hi+%F0%9F%91%8B+I'm+Sanjana+Fernando;Computer+Engineering+Graduate+%7C+University+of+Ruhuna;I+build+ML-powered+full-stack+apps;Reinforcement+Learning+%7C+RAG+%7C+Next.js;Currently+Web+Developer+%40+W3icon" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -23,13 +23,13 @@
 class Sanjana:
     role      = "Full Stack Software Engineer (AI/ML Focused)"
     education = "BSc Computer Engineering, University of Ruhuna"
-    location  = "Pannipitiya, Sri Lanka 🇱🇰"
+    location  = "Pannipitiya, Sri Lanka"
     working_at = "W3icon (Pvt) Ltd. – Web Developer"
 
     focus = ["Reinforcement Learning", "LLM Agents & RAG", "Full-Stack Web", "Computer Vision"]
 
     def currently_building(self):
-        return "ML-powered products that actually ship 🚢"
+        return "ML-powered products that actually ship"
 
     def open_to(self):
         return ["Software Engineering roles", "AI/ML projects", "Hackathons", "Collaborations"]
@@ -57,12 +57,15 @@ class Sanjana:
 
 **ML & AI**
 
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv,pandas,numpy,scipy" alt="ML" />
-<br/>
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-2563eb?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,opencv" alt="ML" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/LangGraph-2563eb?style=for-the-badge" alt="LangGraph" />
+<img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
 
 **Databases, Mobile & Tools**
 
@@ -141,12 +144,15 @@ timeline
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SanjanaFernando&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaFernando&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=SanjanaFernando&theme=tokyonight&hide_border=true" alt="Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SanjanaFernando&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<br/>
+
+<img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats" />
+<img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
+
+<img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per Language" />
+<img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time" />
 
 </div>
 
